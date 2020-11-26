@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, keyframes } from '@chakra-ui/core';
+import { Image, keyframes } from '@chakra-ui/react';
 import logo from './logo.svg';
 
 const spin = keyframes`
